@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Emmet",
+		"GitGutter",
+		"Package Control",
+		"Prolog",
+		"Sass"
+	],
+	"repositories":
+	[
+		"https://github.com/P233/Syntax-highlighting-for-Sass"
+	]
+}
